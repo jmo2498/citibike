@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+pymysql
+requests
+google-cloud-bigquery
+google-cloud-secret-manager
