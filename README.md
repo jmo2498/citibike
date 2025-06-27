@@ -20,3 +20,6 @@ A data-driven web app that visualizes Citibike rides in NYC—including real-tim
 | Backend      | Node.js, Express, PostGIS (PostgreSQL)     |
 | API / Data   | Citibike GBFS API + scheduled ride data loader |
 | Deployment   | Docker, GitHub Actions, Heroku/AWS        |
+
+
+https://www.youtube.com/watch?v=aQjjmlc_es4
